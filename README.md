@@ -37,4 +37,3 @@ TA-3: Create first template version
 - add sass
 - modify color scheme and fonts
 - add profile image
-- add profile links
