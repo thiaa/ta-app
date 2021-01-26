@@ -1,6 +1,25 @@
-# Welcome to my personal portfolio!
+# Welcome to my personal portfolio react project!
 
-This readme me file will describe the project and it's progress
 
-1 - Let's start by commiting this file
-2 - and then I will start a fresh project from a create-react-app template
+## Intro
+This project is intended to create a single page portfolio to provide both links to my Github account and my LinkedIn profile. The essential aspect of this project is to demonstrate my web developement knowledge and skills.
+
+My goal is to create a React app, host it on Heroku, source control it using Github and touch as many web tools and frameworks as I find interesting.
+
+The project will be simple as it's final result but will cover some interesting topics.
+
+This readme me file will be used to describe the project, it's progress, and a simple and funny backlog-ticketing system.
+
+I hope you enjoy it!
+
+
+## Backlog
+TA-0
+- let's start by commiting the readme file
+- write intro readme description
+
+TA-1. Start a fresh project from a create-react-app template
+- use crate-react-app
+- configure .gitignore
+- clean and delete default templte files
+- organize the app file structure
