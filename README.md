@@ -27,3 +27,6 @@ I hope you enjoy it!
 - organize the app file structure
 - create js, css, html files
 - create first version template
+- edit robot.txt file to not public
+- modify source HTML headers
+- add no index, no follow
