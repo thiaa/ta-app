@@ -22,11 +22,19 @@ I hope you enjoy it!
 - use crate-react-app
 - configure .gitignore
 
-🔄 TA-2: Template version 1
+🔄 TA-2: Cleanup files (~~Template version 1~~)
 - clean and delete default template files
 - organize the app file structure
 - create js, css, html files
-- create first version template
+- ~~create first version template~~
 - edit robot.txt file to not public
 - modify source HTML headers
 - add no index, no follow
+
+TA-3: Create first template version
+- add react bootstrap
+- create basic template
+- add sass
+- modify color scheme and fonts
+- add profile image
+- add profile links
