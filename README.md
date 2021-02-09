@@ -22,7 +22,7 @@ I hope you enjoy it!
 - use crate-react-app
 - configure .gitignore
 
-🔄 TA-2: Cleanup files (~~Template version 1~~)
+✅ TA-2: Cleanup files (~~Template version 1~~)
 - clean and delete default template files
 - organize the app file structure
 - create js, css, html files
@@ -31,7 +31,7 @@ I hope you enjoy it!
 - modify source HTML headers
 - add no index, no follow
 
-TA-3: Create first template version
+🔄 TA-3: Create first template version
 - add react bootstrap
 - create basic template
 - add sass
