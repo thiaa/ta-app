@@ -1,9 +1,10 @@
+import Container from 'react-bootstrap/Container';
 
 function App() {
   return (
-    <div className="App">
-      <h1>ta-app</h1>
-    </div>
+    <Container fluid className="p-3">
+      <h1 className="header">Welcome To React-Bootstrap</h1>
+    </Container>
   );
 }
 
